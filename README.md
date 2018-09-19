@@ -6,6 +6,6 @@ This readme file is also kind of medium term programme on my learning journey.
 
 <i>(Read)</i> http://neuralnetworksanddeeplearning.com/ Read that book.
 
-<i>(Code)</i> <a href="https://github.com/mutcato/Keras_Animal_Classifier/tree/master/_SimpleNN">Multiclass classification with a simple (fully connected) neural network using Keras
+<i>(Code)</i> <a href="https://github.com/mutcato/Keras_Animal_Classifier/tree/master/_SimpleNN">Multiclass classification with a simple (fully connected) neural network using Keras</a>
   
-<i>(Code)</i> <a href="https://github.com/mutcato/Keras_Animal_Classifier/tree/master/_CNN">Multiclass classification with a convolutional neural network using Keras
+<i>(Code)</i> <a href="https://github.com/mutcato/Keras_Animal_Classifier/tree/master/_CNN">Multiclass classification with a convolutional neural network using Keras</a>
