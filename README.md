@@ -2,7 +2,7 @@
 ## Codes that i wrote while learning machine learning and deep learning
 This readme file is also kind of medium term programme on my learning journey.
 
-<i>(Watch)</i> Watch the course Introduction to Machine Learning by Andrew Ng to get a introductory nformation what the machine learning is.
+<i>(Watch)</i> Watch the course Introduction to Machine Learning by Andrew Ng to get a introductory information what the machine learning is. Or watch any other indroductory course.
 
 <i>(Read)</i> http://neuralnetworksanddeeplearning.com/ Read that book.
 
