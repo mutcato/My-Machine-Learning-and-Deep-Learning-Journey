@@ -12,6 +12,7 @@ This readme file is also kind of medium term programme on my learning journey.
 
 ## Reinforcement Learning
 <a href="https://www.youtube.com/watch?v=6QMrNpFPVXA&list=PLXO45tsB95cIplu-fLMpUEEZTwrDNh6Ba&index=2">Introductory Playlist</a>
-<a href="https://www.youtube.com/watch?v=kqSzLo9fenk&t=503s">A friendly introduction to Bayes Theorem and Hidden Markov Models</a>
-gym.openai.com
 
+<a href="https://www.youtube.com/watch?v=kqSzLo9fenk&t=503s">A friendly introduction to Bayes Theorem and Hidden Markov Models</a>
+
+https://gym.openai.com
