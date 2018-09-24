@@ -17,6 +17,9 @@ This readme file is also kind of medium term programme on my learning journey.
 <i>(Read)</i> <a href="https://towardsdatascience.com/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0">Choosing optimum learning rate</a>
 
 ## Colaborative Filtering
+
+<i>Watch</i> <a href="https://www.youtube.com/watch?v=ZspR5PZemcs"> Netflix recomendation engine - Luis Serrano</a>
+
 <i>(Code)</i> <a href="https://towardsdatascience.com/collaborative-filtering-and-embeddings-part-1-63b00b9739ce">FastAi Colaborative filtering Implementation Part 1</a>
 
 <i>(Code)</i> <a href="https://towardsdatascience.com/collaborative-filtering-and-embeddings-part-2-919da17ecefb">FastAi Colaborative filtering Implementation Part 2</a>
