@@ -10,6 +10,15 @@ This readme file is also kind of medium term programme on my learning journey.
   
 <i>(Code)</i> <a href="https://github.com/mutcato/Keras_Animal_Classifier/tree/master/_CNN">Multiclass classification with a convolutional neural network using Keras</a>
 
+<i>(Read)</i> <a href="https://techburst.io/improving-the-way-we-work-with-learning-rate-5e99554f163b">Improwing the way we work with learning rate</a>
+
+<i>(Read)</i> <a href="https://towardsdatascience.com/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0">Choosing optimum learning rate</a>
+
+## Colaborative Filtering
+<i>(Code)</i> <a href="https://towardsdatascience.com/collaborative-filtering-and-embeddings-part-1-63b00b9739ce">FastAi Colaborative filtering Implementation Part 1</a>
+
+<i>(Code)</i> <a href="https://towardsdatascience.com/collaborative-filtering-and-embeddings-part-2-919da17ecefb">FastAi Colaborative filtering Implementation Part 2</a>
+
 ## Reinforcement Learning
 <a href="https://www.youtube.com/watch?v=6QMrNpFPVXA&list=PLXO45tsB95cIplu-fLMpUEEZTwrDNh6Ba&index=2">Introductory Playlist</a>
 
