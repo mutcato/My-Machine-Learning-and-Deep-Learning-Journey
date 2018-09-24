@@ -10,6 +10,8 @@ This readme file is also kind of medium term programme on my learning journey.
   
 <i>(Code)</i> <a href="https://github.com/mutcato/Keras_Animal_Classifier/tree/master/_CNN">Multiclass classification with a convolutional neural network using Keras</a>
 
+<i>(Read)</i> <a href="https://hackernoon.com/fast-ai-what-i-learned-from-lessons-1-3-b10f9958e3ff">Summary of Lesson 1-3 in Fast.Ai</a>
+
 <i>(Read)</i> <a href="https://techburst.io/improving-the-way-we-work-with-learning-rate-5e99554f163b">Improwing the way we work with learning rate</a>
 
 <i>(Read)</i> <a href="https://towardsdatascience.com/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0">Choosing optimum learning rate</a>
