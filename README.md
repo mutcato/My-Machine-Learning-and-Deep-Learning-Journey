@@ -8,6 +8,8 @@ This readme file is also kind of medium term programme on my learning journey.
 
 <i>(Read)</i> http://timdettmers.com/2015/03/26/convolution-deep-learning/ Understanding CNN's.
 
+<i>(Code)</i> http://karpathy.github.io/neuralnets/ Hacker's Guide for NN.
+
 <i>(Code)</i> <a href="https://github.com/mutcato/Keras_Animal_Classifier/tree/master/_SimpleNN">Multiclass classification with a simple (fully connected) neural network using Keras</a>
   
 <i>(Code)</i> <a href="https://github.com/mutcato/Keras_Animal_Classifier/tree/master/_CNN">Multiclass classification with a convolutional neural network using Keras</a>
@@ -17,6 +19,10 @@ This readme file is also kind of medium term programme on my learning journey.
 <i>(Read)</i> <a href="https://techburst.io/improving-the-way-we-work-with-learning-rate-5e99554f163b">Improwing the way we work with learning rate</a>
 
 <i>(Read)</i> <a href="https://towardsdatascience.com/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0">Choosing optimum learning rate</a>
+
+## RNN and LSTM
+
+<i>(Read)</i> <a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/">Understanding LSTM</a>
 
 ## Colaborative Filtering
 
@@ -31,8 +37,10 @@ This readme file is also kind of medium term programme on my learning journey.
 <i>(Read)</i> <a href="https://beckernick.github.io/matrix-factorization-recommender/">Matrix Factorization for Movie Recommendations</a>
 
 ## Reinforcement Learning
-<a href="https://www.youtube.com/watch?v=6QMrNpFPVXA&list=PLXO45tsB95cIplu-fLMpUEEZTwrDNh6Ba&index=2">Introductory Playlist</a>
+<i>(Watch)</i><a href="https://www.youtube.com/watch?v=6QMrNpFPVXA&list=PLXO45tsB95cIplu-fLMpUEEZTwrDNh6Ba&index=2">Introductory Playlist</a>
 
-<a href="https://www.youtube.com/watch?v=kqSzLo9fenk&t=503s">A friendly introduction to Bayes Theorem and Hidden Markov Models</a>
+<i>(Watch)</i><a href="https://www.youtube.com/watch?v=kqSzLo9fenk&t=503s">A friendly introduction to Bayes Theorem and Hidden Markov Models</a>
+
+<i>(Read)</i><a href="http://karpathy.github.io/2016/05/31/rl/">Deep Reinforcement Learning: Pong from Pixels</a>
 
 https://gym.openai.com
