@@ -41,6 +41,10 @@ This readme file is also kind of medium term programme on my learning journey.
 
 <i>(Watch)</i><a href="https://www.youtube.com/watch?v=kqSzLo9fenk&t=503s">A friendly introduction to Bayes Theorem and Hidden Markov Models</a>
 
+https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX
+
+<i>(Watch)</i> https://sites.google.com/view/deep-rl-bootcamp/lectures
+
 <i>(Read)</i><a href="http://karpathy.github.io/2016/05/31/rl/">Deep Reinforcement Learning: Pong from Pixels</a>
 
 https://gym.openai.com
