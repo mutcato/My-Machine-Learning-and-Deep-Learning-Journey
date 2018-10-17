@@ -36,6 +36,10 @@ This readme file is also kind of medium term programme on my learning journey.
 
 <i>(Read)</i> <a href="https://beckernick.github.io/matrix-factorization-recommender/">Matrix Factorization for Movie Recommendations</a>
 
+<i>(Watch)</i> <a href="https://www.coursera.org/learn/ml-regression/home/welcome">Regression and Lasso Regression</a>
+
+<i>(Read)</i> <a href="https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/">Lasso Regression</a>
+
 ## Reinforcement Learning
 <i>(Watch)</i><a href="https://www.youtube.com/watch?v=6QMrNpFPVXA&list=PLXO45tsB95cIplu-fLMpUEEZTwrDNh6Ba&index=2">Introductory Playlist</a>
 
