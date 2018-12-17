@@ -36,7 +36,11 @@ with PyTorch:
 
 <i>(Read)</i>https://towardsdatascience.com/real-time-video-neural-style-transfer-9f6f84590832
 
+with TensorFlow.js:
 
+<i>(Read)</i><a href="https://medium.com/tensorflow/a-gentle-introduction-to-tensorflow-js-dba2e5257702">Introduction to TF.js</a>
+
+<i>Watch</i> <a href="https://www.youtube.com/watch?v=STHRNIJc-vI"> Neural Style Transfer with p5.js and ml5.js - Shiffman</a>
 
 ## RNN and LSTM
 
