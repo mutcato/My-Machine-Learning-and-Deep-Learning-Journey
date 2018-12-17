@@ -20,6 +20,24 @@ This readme file is also kind of medium term programme on my learning journey.
 
 <i>(Read)</i> <a href="https://towardsdatascience.com/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0">Choosing optimum learning rate</a>
 
+## Neural Style Transfer
+
+with TensorFlow:
+
+<i>(Read)</i> https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398
+
+<i>Watch</i> <a href="https://www.youtube.com/watch?v=LoePx3QC5Js"> Neural Style Transfer with Tensorflow - Hvass Labrotories</a>
+
+<i>Watch</i> <a href="https://www.youtube.com/watch?v=YoBEGQD3LCc"> Neural Style Transfer with Tensorflow - Siraj(Live Video)</a>
+
+with PyTorch:
+
+<i>(Read)</i>https://github.com/pytorch/examples/tree/master/fast_neural_style
+
+<i>(Read)</i>https://towardsdatascience.com/real-time-video-neural-style-transfer-9f6f84590832
+
+
+
 ## RNN and LSTM
 
 <i>(Read)</i> <a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/">Understanding LSTM</a>
